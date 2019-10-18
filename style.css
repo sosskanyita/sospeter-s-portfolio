@@ -1,5 +1,6 @@
 body{
-background-color: rgb(98, 96, 244);;
+background-color: rgb(98, 96, 244);
+text-align: center;
 }
 
 .topnav{
@@ -15,7 +16,8 @@ ul a{
 }
 
 
-
-.sosp {
-    border-radius: 60px;
+img{
+    border-radius: 80%;
+    object-position: center top;
+    margin-top: 1%;
 }
