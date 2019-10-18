@@ -3,7 +3,7 @@ background-color: rgb(98, 96, 244);;
 }
 
 .topnav{
-    background: sandybrown;
+    background: gold;
     padding: 15px;
     margin: 0px;
 }
@@ -14,10 +14,8 @@ ul a{
     padding: 14px 16px;
 }
 
-image{
+
+
+.sosp {
     border-radius: 60px;
-    width: 150px;
-    height: 152px;
 }
-
-
