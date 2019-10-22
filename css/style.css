@@ -1,0 +1,31 @@
+body{
+    background-image: url(/images/sos.png);
+    background-repeat:no-repeat;
+    
+}
+.navi{
+    list-style: none;
+    float: right;
+    list-style-type: none;
+    margin-top: 10px;
+    word-spacing: 70px;
+    background-color:black;
+    
+
+}
+.active
+{
+    color: gold;
+}
+.abt{
+    color: gold;
+};
+.prj {
+    color: gold;
+}
+#gradient {
+    background-color: cornflowerblue;
+}
+.abt {
+    background-color: deepskyblue;;
+}
