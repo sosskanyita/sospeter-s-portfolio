@@ -1,4 +1,7 @@
 # Portfolio
+
+## Author
+Sospeter kanyita
 ​
 ## Description
 A portfolio with information about me, my projects so far at Moringa school and the Technologies used.
